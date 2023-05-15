@@ -15,4 +15,4 @@ Password: 123456789
 ### Step 5
 php artisan db:seed , to generate random Contacts.
 ### Step 6
-
+Enjoy.
