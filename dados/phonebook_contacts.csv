@@ -1,0 +1,3 @@
+username,pri_nome,empresa,email,nmr_telemovel,nmr_escritorio,nmr_casa,notas
+Bernardo Santos,,,bernardo@test.pt,911190988,244888999,,
+Test CSV,CSV,CSV Company,import@test.COM,912222222,244333222,244312213, This is a note test for Import csv files
