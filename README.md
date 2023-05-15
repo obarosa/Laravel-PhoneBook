@@ -16,3 +16,7 @@ Password: 123456789
 php artisan db:seed , to generate random Contacts.
 ### Step 6
 Enjoy.
+
+## Other
+### Import
+To import contacts from a CSV or XLSX file, go to the dashboard and click on the "Import" button. In the "dados" folder there are sample files.
