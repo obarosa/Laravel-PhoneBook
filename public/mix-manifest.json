@@ -1,0 +1,17 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/contact.js": "/js/contact.js",
+    "/js/user_contact.js": "/js/user_contact.js",
+    "/js/conflicts.js": "/js/conflicts.js",
+    "/js/csv_contact.js": "/js/csv_contact.js",
+    "/css/app.css": "/css/app.css",
+    "/css/style.css": "/css/style.css",
+    "/assets/images/clipboard-regular-24.png": "/assets/images/clipboard-regular-24.png",
+    "/assets/images/close.png": "/assets/images/close.png",
+    "/assets/images/edit.png": "/assets/images/edit.png",
+    "/assets/images/logo_phonebook.png": "/assets/images/logo_phonebook.png",
+    "/assets/images/trash-regular-24.png": "/assets/images/trash-regular-24.png",
+    "/assets/images/trash.png": "/assets/images/trash.png",
+    "/assets/images/user-plus-solid-24.png": "/assets/images/user-plus-solid-24.png",
+    "/assets/images/view.png": "/assets/images/view.png"
+}

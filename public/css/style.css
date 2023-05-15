@@ -1,0 +1,271 @@
+/* BOOTSTRAP */
+.btn-primary {
+    background-color: #0d6efd !important;
+}
+
+.btn-primary:hover {
+    background-color: #0b5ed7 !important;
+}
+
+.btn-secondary {
+    background-color: #6c757d !important;
+}
+
+.btn-secondary:hover {
+    background-color: #5c636a !important;
+}
+
+.btn-success {
+    background-color: #198754 !important;
+}
+
+.btn-success:hover {
+    background-color: #157347 !important;
+}
+
+.btn-danger {
+    background-color: #dc3545 !important;
+}
+
+.btn-danger:hover {
+    background-color: #bb2d3b !important;
+}
+
+.btn-light {
+    background-color: #f8f9fa !important;
+}
+
+.btn-light:hover {
+    background-color: #f9fafb !important;
+    border-color: #f9fafb !important;
+}
+
+h5 {
+    font-size: 1.25rem !important;
+}
+
+/*------- MY STYLES -------*/
+
+a.corAzulPhoneBook:hover,
+.bx.bx-mobile.bx-sm:hover,
+.bx.bxs-phone-call.bx-sm:hover,
+.bx.bxs-phone.bx-sm:hover,
+.bx.bx-user.bx-sm:hover {
+    color: #0a58ca !important;
+}
+
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+    display: none;
+}
+
+button.btn.btn-secondary.pdfButton {
+    color: black;
+    background-color: white !important;
+    border-color: white !important;
+}
+
+button.btn.btn-secondary.pdfButton:hover {
+    background-color: #043e80 !important;
+    border-color: #043e80 !important;
+    color: white;
+}
+
+.dataTables_filter {
+    display: none;
+}
+
+.bx-sm.clipboardcopyDetalhes {
+    font-size: 1.25rem !important;
+}
+
+.tituloDropdown {
+    display: block;
+    width: 100%;
+    padding: 0.45rem 1rem;
+    background-color: #f8f9fa;
+}
+
+.dropdown-menu.show.filtros {
+    width: 250px;
+    inset: 0px auto auto -195px !important;
+}
+
+.btn-light:focus {
+    color: white !important;
+    background-color: #043e80 !important;
+    border-color: #043e80 !important;
+    box-shadow: 0 0 0 0.25rem rgb(13 110 253 / 25%) !important;
+}
+
+.dropdown-toggle::after {
+    margin-top: 0.4em !important;
+}
+
+.col-form-label.webServicesForm {
+    padding-bottom: 0 !important;
+}
+
+a.dropdown-item.exportDropdown {
+    width: 420px !important;
+}
+
+a.btn.btn-secondary.downloadFilesXML {
+    margin-top: -28px !important;
+    margin-right: 10px !important;
+    float: right !important;
+    line-height: 10px !important;
+    font-size: 0.6rem !important;
+    z-index: 1 !important;
+}
+
+a.btn.btn-secondary.downloadFilesXML:hover {
+    background-color: #043e80 !important;
+    border-color: #043e80 !important;
+}
+
+.dropdown-menu.show {
+    inset: -8px auto auto -13px !important;
+}
+
+footer {
+    vertical-align: baseline !important;
+    bottom: 0;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #ffffff !important;
+    background-color: #043e80 !important;
+    cursor: pointer !important;
+}
+
+.corAzulPhoneBook {
+    color: rgba(4, 62, 128, 1) !important;
+}
+
+.input-group-text {
+    background-color: rgba(4, 62, 128, 1) !important;
+}
+
+.form-control {
+    border-color: #e1e5e9 !important;
+    display: block !important;
+    width: 100% !important;
+    padding: 0.375rem 0.75rem !important;
+    font-size: 1rem !important;
+    font-weight: 400 !important;
+    line-height: 1.5 !important;
+    color: #212529 !important;
+    background-color: #fff !important;
+    background-clip: padding-box !important;
+    border: 1px solid #ced4da !important;
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+    border-radius: 0.25rem !important;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out !important;
+}
+
+.bg-gray-800 {
+    --tw-bg-opacity: 1 !important;
+    background-color: #043e80 !important;
+}
+
+.a:hover {
+    color: rgba(4, 62, 128, 1) !important;
+    font-weight: bold;
+}
+
+.form-control.searchInput {
+    border-color: #c3d0ee;
+}
+
+hr {
+    background-color: #dee2e6 !important;
+    border: 0 !important;
+    opacity: 100% !important;
+}
+
+.page-link {
+    border: none !important;
+    color: rgba(4, 62, 128, 1) !important;
+    margin-right: 5px !important;
+}
+
+.page-item.active .page-link {
+    z-index: 3 !important;
+    background-color: #80808029 !important;
+    border-radius: 5px !important;
+}
+
+.page-link:hover {
+    background-color: #80808029 !important;
+    border-radius: 5px !important;
+}
+
+/* BOTÕES */
+.homeButton:hover {
+    fill: rgba(4, 62, 128, 1);
+}
+
+.btn-info {
+    background-color: rgba(4, 62, 128, 1) !important;
+    border-color: rgba(4, 62, 128, 1) !important;
+    color: white !important;
+}
+
+.btn-info:hover {
+    background-color: rgb(11, 75, 148) !important;
+    color: white !important;
+}
+
+.btn {
+    font-size: 0.9rem !important;
+}
+
+.btn-close {
+    background: transparent url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16' fill='%23000'%3e%3cpath d='M.293.293a1 1 0 011.414 0L8 6.586 14.293.293a1 1 0 111.414 1.414L9.414 8l6.293 6.293a1 1 0 01-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 01-1.414-1.414L6.586 8 .293 1.707a1 1 0 010-1.414z'/%3e%3c/svg%3e") center/1em auto no-repeat !important;
+}
+
+.modal-header .btn-close {
+    margin: 0 !important;
+}
+
+/* MODAL  */
+.modal-body {
+    padding: 1.5rem !important;
+}
+
+.modal-title {
+    font-weight: bolder !important;
+}
+
+.form-check-input:disabled {
+    opacity: 1 !important;
+}
+
+/* INPUT - MODAL */
+.form-select.selectFreqAtual {
+    width: 50%;
+}
+
+/* FOOTER - MODAL */
+.modal-footer.detalhesModalFooter {
+    justify-content: flex-start !important;
+}
+
+.badge.modalDetalhes {
+    font-size: 0.95em !important;
+}
+
+.badge {
+    border-radius: 1rem !important;
+}
+
+/* TABELA */
+/* .text-sm{
+font-size: 0.87rem!important;
+} */
+
